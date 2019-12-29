@@ -8,8 +8,8 @@ hardware component (try google, they are plenty)
 
 ## Devices
 
-- [x] PiCamera Stream w/ [RPI Camera](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS)
-- [ ] Voice recognition w/ WM8960 Audio HAT
+- [x] pyCamera Stream w/ [RPI Camera](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS)
+- [ ] pySound w/ [WM8960 Audio HAT](https://www.waveshare.com/wm8960-audio-hat.htm)
 - [ ] Camera object tracking w/ TensorFlow
 - [ ] E-Paper INK
 - [ ] 1.44 LCD display
@@ -22,7 +22,7 @@ hardware component (try google, they are plenty)
 
 ## Python Project
 
-### activate `venv`
+### activate/deactivate `venv`
 
 ```sh
 python3 -m venv env
