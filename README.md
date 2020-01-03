@@ -4,7 +4,7 @@
 
 This repo is meant only for **try-out** and **initial research**,
 it will **NOT** guide you through any installation of a specific
-hardware component (try google, they are plenty)
+hardware component.
 
 ## Devices
 
